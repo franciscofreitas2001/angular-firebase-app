@@ -87,3 +87,7 @@ This should take a couple of minutes. If there are issues, please post the compl
 
 ## Running the code
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Populating de database
+Run `npm run populate-db` which will get the content od db-data.ts and populate de firebase real time database.
+
